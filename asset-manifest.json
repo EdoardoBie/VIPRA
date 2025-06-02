@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.813fb4a9.css",
+    "main.js": "/static/js/main.5bbe9d86.js",
+    "static/media/LogoVIPRA.png": "/static/media/LogoVIPRA.2d21ab1fd86a5dff647d.png",
+    "index.html": "/index.html",
+    "main.813fb4a9.css.map": "/static/css/main.813fb4a9.css.map",
+    "main.5bbe9d86.js.map": "/static/js/main.5bbe9d86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.813fb4a9.css",
+    "static/js/main.5bbe9d86.js"
+  ]
+}
